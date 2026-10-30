@@ -1,0 +1,25 @@
+
+.edu {
+    width: 480px;
+    height: 130px;
+   
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin-top: 2px;
+    padding-left: 10px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.tools {
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    margin-top: 5px;
+    color: gray;
+    padding: 4px 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
